@@ -3,7 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { GoogleLogin, googleLogout } from '@react-oauth/google';
 import { useRouter } from 'next/router';
-import { SlLogout } from 'react-icons/Sl';
+import { SlLogout } from 'react-icons/sl';
 import { BsSearch } from 'react-icons/bs';
 import { IoMdAdd } from 'react-icons/io';
 import Logo from '../utils/sports-blog-logo.png'
